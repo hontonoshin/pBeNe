@@ -1,0 +1,11 @@
+/run/verbose 1
+/event/verbose 0
+/tracking/verbose 0
+
+/run/numberOfThreads 1
+/run/initialize
+
+/beam/mode mono
+/beam/energy 15 MeV
+
+/run/beamOn 1000000
